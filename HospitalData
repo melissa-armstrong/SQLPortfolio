@@ -1,2 +1,27 @@
-![alt text here](hosp.png)
+![](hosp.png)
 #Hospital Data Analysis 
+
+I have decided to take on the task of analyzing over 100,000 hospital records with a little help from SQL. 
+Where should we start? Familiarizing ourselves with the data, of course! 
+First, let's take a look at the gender and age breakdown. 
+
+
+
+Next, let's examine the diagnoses patients are most commonly being seen for. 
+
+
+Now that we know what they're being treated for, let's take a look at where they're coming from. 
+
+
+We know that hospital stays are expensive. Which specialty's patients are staying the longest? 
+
+
+Nobody wants to see their patients back too soon. We love to help them, but want to make sure they're healthy before we send them home! 
+Let's take a look at some factors that are related to higher incidences of readmittance. 
+First: the frequent fliers
+
+
+Do older patients have higher rates of readmittance? 
+(use bins)
+
+
